@@ -1,5 +1,5 @@
 ### Digit-Classification
-This is a classifier built for my Artificial Intelligence class.
+This is a classifier built as part of my Artificial Intelligence assignment.
 
 I have created the following features for classification:
 Feature 1: Using the Pixel values of the image.
